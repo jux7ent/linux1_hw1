@@ -1,0 +1,3 @@
+/home/jux7ent/Documents/Linux1_hws/build/CMakeFiles/rebuild_cache.dir
+/home/jux7ent/Documents/Linux1_hws/build/CMakeFiles/edit_cache.dir
+/home/jux7ent/Documents/Linux1_hws/build/CMakeFiles/miniFS.dir

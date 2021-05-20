@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../fs/fs.h
+stdio.h
+-
+
+../utils/utils.h
+
+/home/jux7ent/Documents/Linux1_hws/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+fs.h
+/home/jux7ent/Documents/Linux1_hws/fs.h
+utils.h
+/home/jux7ent/Documents/Linux1_hws/utils.h
+

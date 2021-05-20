@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/miniFS.dir/main.c.o CMakeFiles/miniFS.dir/fs/fs.c.o CMakeFiles/miniFS.dir/utils/utils.c.o  -o miniFS 
